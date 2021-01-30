@@ -16,7 +16,7 @@ export default function Home({ data }) {
         />
       </div>
       <div id="homepage--about">
-        <p>I'm Michael, a software engineer living in Houston, Texas</p>
+        <p>I'm Michael, a software engineer living in Houston, Texas.</p>
         <p>Right now I work at StackWave where I build web applications and consult with biotech startups.</p>
       </div>
       <div id ="homepage--social">
