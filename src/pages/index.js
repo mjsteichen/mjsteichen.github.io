@@ -11,7 +11,7 @@ export default function Home({ data }) {
       <div className="homepage--headshot-container">
         <Img
           fixed={data.file.childImageSharp.fixed}
-          alt="my face"
+          alt="headshot"
           className="headshot"
         />
       </div>
