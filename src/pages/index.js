@@ -21,7 +21,7 @@ export default function Home({ data }) {
       </div>
       <div id ="homepage--social">
         <SocialIcon url="https://www.linkedin.com/in/michaelsteichen/" className="homepage--social-icon" />
-        <SocialIcon url="https://www.medium.com/" className="homepage--social-icon" />
+        <SocialIcon url="https://medium.com/@michael-steichen" className="homepage--social-icon" />
         <SocialIcon url="https://github.com/mjsteichen" className="homepage--social-icon" />
       </div>
     </main>
