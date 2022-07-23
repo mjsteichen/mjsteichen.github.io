@@ -17,7 +17,7 @@ export default function Home({ data }) {
       </div>
       <div id="homepage--about">
         <p>I'm Michael Steichen, a software engineer living in Houston, Texas.</p>
-        <p>Right now I work at StackWave where I build web applications and consult with biotech startups.</p>
+        <p>Right now I am a consultant at Focused Labs where I build web applications using TDD and XP.</p>
       </div>
       <div id ="homepage--social">
         <SocialIcon url="https://www.linkedin.com/in/michaelsteichen/" className="homepage--social-icon" />
